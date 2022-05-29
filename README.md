@@ -58,7 +58,7 @@ Face recognition application for a food website built during Microsoft Engage 20
 
 
 ## **Navigating through the website**
-
+![ss](https://github.com/Anamika0811/Week-1/blob/58106371e34dcbe60dd497d9810a589ce895ac54/about.jpg)
 
 
 
