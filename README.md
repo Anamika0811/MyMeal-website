@@ -59,6 +59,8 @@ Face recognition application for a food website built during Microsoft Engage 20
 
 ## **Navigating through the website**
 
+![img1](pictures/home.jpg)
+
 
 
 
