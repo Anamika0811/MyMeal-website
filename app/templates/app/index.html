@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    {% load static %}
+    <!-- % load static %  -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Khane bhi do yaaron</title>
+    <link rel="stylesheet" href="{% static 'app/css/style.css' %}">
+    <!-- <link rel="stylesheet" media="screen and (max-width: 1170px)" href="css/phone.css"> -->
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai|Bree+Serif&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <nav id="navbar">
+        <div id="logo">
+            <img src="{% static 'app/images/logo2.png' %}" alt="MyMeal.com">
+        </div>
+        <ul>
+            <li class="item"><a href="#home"> Home </a></li>
+            <li class="item"><a href="#services-container"> Services </a></li>
+            <li class="item"><a href="#about"> About </a></li>
+            <li class="item"><a href="#contact"> Contact Us </a></li>
+            <li class="item"><a href="login.html"> Sign-in/Login </a></li>
+
+        </ul>
+        <!-- <div class="rightNav">
+            <input type="text" name="search" id="search">
+            <button class="btn btn-sm">search</button>
+        </div> -->
+    </nav>
+
+    <section id="home">
+        <h1 class="h-primary">Welcome to MyMeal</h1>
+        <p>An easy and fast way to order your meal <br>
+             No need to wait in long queues
+        </p>
+    </section>
+    
+    <section id="services-container">
+        <h1 class="h-primary center">Our Services</h1>
+        <div id="services">
+            <div class="box">
+                <img src="{% static 'app/images/person_food.jpg' %}" alt="">
+                <div>
+                    <h2 class="h-secondary center">Personalised Ordering</h2>
+                    <p class="center">No need to repeat your order. 
+                        Now you can keep your favourite order into your accounts, and we'll know what to serve you
+                        the next time you visit us. You can add your payment details, for future. </p>
+                </div>
+                
+            </div>
+        </div>
+
+        <div id="services">
+            <div class="box">
+                <img src="{% static 'app/images/secure.png' %}" alt="">
+                <div>
+                    <h2 class="h-secondary center">Secure Transaction</h2>
+                    <p class="center"> We use face recognition to login you into your system,
+                        So you know that your account is safe and accessible only by you. You can add in your family members
+                        as well if you want the account to be accessible by all your family members.
+                    </p>
+                </div>
+                
+            </div>
+        </div>
+        <div id="services">
+            <div class="box">
+                <img src="{% static 'app/images/food2.jpeg' %}" alt="">
+                <div>
+                    <h2 class="h-secondary center">Food Ordering</h2>
+                    <p class="center">Quick food ordering service. You can order food from anywhere anytime without standing in long queues</p>
+                </div>
+                
+            </div>
+        </div>
+
+    </section>
+
+    
+
+    <section class="about-us">
+        <h1 class="h-primary center">About us</h1>
+        <div id="about">
+            <div class="box">
+                <p class="center">MyMeals opened in 2019 with an inventive Indian menu that serves Indian food for the twenty 
+                    first century with a unique marriage of global ingredients 
+                    and techniques with the flavours and traditions of India. </p>
+                
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h1 class="h-primary center background">Contact us</h1>
+        <p class = "background">Contact number: 95994XXXXX, 77868XXXXX <br> E-mail address: MyMeal@gmail.com </p>
+    </section>
+
+    
+
+    <footer>
+        <div class="center">
+            Copyright &copy; www.MyMeal.com. All rights reserved!
+        </div>
+    </footer>
+    
+</body>
+</html>
