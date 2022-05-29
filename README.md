@@ -1,7 +1,5 @@
 # MyMeal-website
 
-# MyMeal-website
-
 Table of Contents 
   1. About the Project
   2. Agile Methodology
