@@ -31,9 +31,9 @@ Face recognition application for a food website built during Microsoft Engage 20
 
 <br>**Sprint 1 (May 5): Sprint Planning, Research and Design** - Researching about various face recognition libraries and SDKs that can be used to make a face recognition      website. After finalising the tools and softwares for building my project, I searched for tutorials and tried to learn to incorporate the technologies in my  project.
 
-<br>**Sprint 2 (May 14): Website development and debugging** - Started the development process by taking help from YouTube tutorials. Built a web application using html, css and javascript for the first time. 
+<br>**Sprint 2 (May 14): Website development and debugging** - Started the development process by taking help from YouTube tutorials. Built a web application using html, css and javascript for the first time. Started to work on backend. Installed python and face recognition libraries required for the code. 
 
-<br>**Sprint 3 (May 21): Integrating my project and making final changes** - I integrated my project to make it complete. Did few final changes to the website to make it more appealing.  
+<br>**Sprint 3 (May 21): Integrating my project and making final changes** - I integrated f to make it complete. Did few final changes to the website to make it more appealing.  
 
 
 ## **Getting Started**
