@@ -66,3 +66,6 @@ Face recognition application for a food website built during Microsoft Engage 20
 
 
 ## **Resources used**
+
+[Tutorial for creating a responsive website](https://www.youtube.com/watch?v=8KVrdL0VcAk&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=39&t=3260s)
+<br>[Face recognition system tutorial](https://youtu.be/sz25xxF_AVE)
