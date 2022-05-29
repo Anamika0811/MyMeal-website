@@ -58,11 +58,38 @@ Face recognition application for a food website built during Microsoft Engage 20
 
 
 ## **Navigating through the website**
-![ss](https://github.com/Anamika0811/Week-1/blob/58106371e34dcbe60dd497d9810a589ce895ac54/about.jpg)
+
+<br>**When we open the website, the home page will appear and would like this:**
+
+<br> ![Home](https://github.com/Anamika0811/photos/blob/4601712047eea4163c32c0718292057153a5670c/pic/home.jpg)
 
 
+<br>**When we click on services, it will navigate us to show this:**
+
+<br> ![Service](https://github.com/Anamika0811/photos/blob/4601712047eea4163c32c0718292057153a5670c/pic/service.jpg)
 
 
+<br>**About will show the details of the company:**
+
+<br> ![about](https://github.com/Anamika0811/photos/blob/4601712047eea4163c32c0718292057153a5670c/pic/about.jpg)
+
+
+<br>**This is the contact us page**
+
+<br> ![Contact](https://github.com/Anamika0811/photos/blob/4601712047eea4163c32c0718292057153a5670c/pic/contact.jpg)
+
+
+<br> **When we click on sign up/login, the following login page would get open:**
+
+<br> ![Login](https://github.com/Anamika0811/photos/blob/4601712047eea4163c32c0718292057153a5670c/pic/login.jpg)
+
+
+<br> **If the user doesn't have an existing account, they'll be able redirected to this sign up page:**
+
+<br> ![sign up](https://github.com/Anamika0811/photos/blob/4601712047eea4163c32c0718292057153a5670c/pic/sign%20in%20.jpg)
 
 
 ## **Resources used**
+
+[Tutorial for creating a responsive website](https://www.youtube.com/watch?v=8KVrdL0VcAk&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=39&t=3260s)
+<br>[Face recognition system tutorial](https://youtu.be/sz25xxF_AVE)
